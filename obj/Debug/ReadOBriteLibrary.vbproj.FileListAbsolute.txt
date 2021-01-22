@@ -1,0 +1,49 @@
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\bin\Debug\Library.mdb
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\bin\Debug\GroupProject.exe.config
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\bin\Debug\GroupProject.exe
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\bin\Debug\GroupProject.pdb
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\bin\Debug\GroupProject.xml
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\obj\Debug\GroupProject.Book.resources
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\obj\Debug\GroupProject.Book_IssueForm.resources
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\obj\Debug\GroupProject.BookReturn_Form.resources
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\obj\Debug\GroupProject.StartupForm.resources
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\obj\Debug\GroupProject.Borrowers.resources
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\obj\Debug\GroupProject.Form2.resources
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\obj\Debug\GroupProject.Late_return.resources
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\obj\Debug\GroupProject.Menu_List.resources
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\obj\Debug\GroupProject.Resources.resources
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\obj\Debug\GroupProject.payment.resources
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\obj\Debug\GroupProject.ReceiptPayment.resources
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\obj\Debug\GroupProject.return_date.resources
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\obj\Debug\GroupProject.StartUp.resources
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\obj\Debug\GroupProject.User_Information.resources
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\obj\Debug\ReadOBriteLibrary.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\obj\Debug\ReadOBriteLibrary.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\obj\Debug\GroupProject.exe
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\obj\Debug\GroupProject.xml
+C:\Users\Administrator\source\repos\GroupProject2.0\GroupProject\obj\Debug\GroupProject.pdb
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\bin\Debug\Library.mdb
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\bin\Debug\GroupProject.exe.config
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\bin\Debug\GroupProject.exe
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\bin\Debug\GroupProject.pdb
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\bin\Debug\GroupProject.xml
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\obj\Debug\ReadOBriteLibrary.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\obj\Debug\GroupProject.Book.resources
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\obj\Debug\GroupProject.Book_IssueForm.resources
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\obj\Debug\GroupProject.BookReturn_Form.resources
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\obj\Debug\GroupProject.StartupForm.resources
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\obj\Debug\GroupProject.Borrowers.resources
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\obj\Debug\GroupProject.Form2.resources
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\obj\Debug\GroupProject.Late_return.resources
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\obj\Debug\GroupProject.Menu_List.resources
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\obj\Debug\GroupProject.Resources.resources
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\obj\Debug\GroupProject.payment.resources
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\obj\Debug\GroupProject.ReceiptPayment.resources
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\obj\Debug\GroupProject.return_date.resources
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\obj\Debug\GroupProject.StartUp.resources
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\obj\Debug\GroupProject.User_Information.resources
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\obj\Debug\ReadOBriteLibrary.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\obj\Debug\ReadOBriteLibrary.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\obj\Debug\GroupProject.exe
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\obj\Debug\GroupProject.xml
+C:\Users\Administrator\source\repos\ReadOBrite Public Library\GroupProject\obj\Debug\GroupProject.pdb

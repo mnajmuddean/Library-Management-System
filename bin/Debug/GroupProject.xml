@@ -1,0 +1,191 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GroupProject
+</name>
+</assembly>
+<members>
+<member name="T:GroupProject.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:GroupProject.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:GroupProject.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:GroupProject.My.Resources.Resources.LOGOTED">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProject.My.Resources.Resources.LOGOTED__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProject.My.Resources.Resources.LOGOTED1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GroupProject.My.Resources.Resources.LOGOTED2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSet.BookDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSet.BorrowDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSet.BorrowerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSet.Late_Return_FinesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSet.UserDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSet.BookRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSet.BorrowRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSet.BorrowerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSet.Late_Return_FinesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSet.UserRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSet.BookRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSet.BorrowRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSet.BorrowerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSet.Late_Return_FinesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSet.UserRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSetTableAdapters.BookTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSetTableAdapters.BorrowTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSetTableAdapters.BorrowerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSetTableAdapters.Late_Return_FinesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSetTableAdapters.UserTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:GroupProject.LibraryDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(GroupProject.LibraryDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:GroupProject.LibraryDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(GroupProject.LibraryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:GroupProject.LibraryDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(GroupProject.LibraryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:GroupProject.LibraryDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:GroupProject.LibraryDataSetTableAdapters.TableAdapterManager.UpdateAll(GroupProject.LibraryDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:GroupProject.LibraryDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
